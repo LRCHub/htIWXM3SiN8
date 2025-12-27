@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ナツコイライダー",
+  "base_artist": "Onephony",
+  "createdAt": "2025-12-27T12:34:22.369164Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ナツコイライダー",
+      "artist": "Onephony",
+      "has_synced": false,
+      "path": "select/pl_01_ナツコイライダー_Onephony.txt"
+    }
+  ]
+}
